@@ -1,8 +1,0 @@
-class android
-{
-public static void accept()
-{
-System.out.println("Hi");
-System.out.println("hello");
-}
-}
